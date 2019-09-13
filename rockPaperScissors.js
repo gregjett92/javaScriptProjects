@@ -72,7 +72,7 @@ Win/lose/tie animation, picture
   
   const playGame = () =>{
     const userChoice =
-  getUserChoice('duck');
+  getUserChoice('bomb');
     const computerChoice =
   getComputerChoice();
     console.log("Your choice is: " + 
